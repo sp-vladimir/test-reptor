@@ -1,0 +1,3 @@
+[submodule "modules/feat-reptor"]
+	path = modulesdir/feat-reptor
+	url = ../feat-reptor.git
