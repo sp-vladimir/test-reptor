@@ -1,4 +1,5 @@
 # test-reptor
 test repository
 
-the third update in main branch
+the 1st update in featureb2 branch
+
