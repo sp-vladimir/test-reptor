@@ -1,0 +1,3 @@
+[submodule "feat-teptor"]
+	path = feat-teptor
+	url = ../feat-teptor
